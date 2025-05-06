@@ -1,6 +1,7 @@
 # 💹 Zerodha Clone – Full-Stack Stock Trading Platform
 
 A full-stack clone of [Zerodha](https://zerodha.com), India's largest stock brokerage platform. This project simulates core features of a stock trading dashboard, including user authentication, stock listings, portfolio management, and responsive UI – built using the **MERN stack**.
+![Screenshot 2025-05-06 092200](https://github.com/user-attachments/assets/7e1d0b68-1216-4b26-bd10-0394c9690bb1)
 
 ![Zerodha Clone Demo]("https://drive.google.com/file/d/1kgbvCc59JeydgGaonl7Ru8ntTmzrR20x/view?usp=drive_link") <!-- Replace with actual image or demo GIF -->
 
